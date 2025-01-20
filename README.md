@@ -1,4 +1,4 @@
-[![Louis' GitHub stats](https://github-readme-stats-orpin-rho.vercel.app/api?username=lpahlavi&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Louis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lpahlavi&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lpahlavi/lpahlavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
